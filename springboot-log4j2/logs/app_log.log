@@ -1,0 +1,12 @@
+[INFO ] 2018-05-21 16:42:16.992 [http-nio-8080-exec-2] SimpleController - Info message
+[WARN ] 2018-05-21 16:42:16.992 [http-nio-8080-exec-2] SimpleController - Warn message
+[ERROR] 2018-05-21 16:42:16.993 [http-nio-8080-exec-2] SimpleController - Error message
+[INFO ] 2018-05-21 16:43:16.580 [http-nio-8080-exec-3] SimpleController - Info message
+[WARN ] 2018-05-21 16:43:16.581 [http-nio-8080-exec-3] SimpleController - Warn message
+[ERROR] 2018-05-21 16:43:16.581 [http-nio-8080-exec-3] SimpleController - Error message
+[INFO ] 2018-05-21 16:43:32.580 [http-nio-8080-exec-5] SimpleController - Info message
+[WARN ] 2018-05-21 16:43:32.581 [http-nio-8080-exec-5] SimpleController - Warn message
+[ERROR] 2018-05-21 16:43:32.581 [http-nio-8080-exec-5] SimpleController - Error message
+[INFO ] 2018-05-21 16:44:18.412 [http-nio-8080-exec-1] SimpleController - Info message
+[WARN ] 2018-05-21 16:44:18.413 [http-nio-8080-exec-1] SimpleController - Warn message
+[ERROR] 2018-05-21 16:44:18.413 [http-nio-8080-exec-1] SimpleController - Error message
